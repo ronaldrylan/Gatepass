@@ -1,0 +1,6 @@
+{
+  "name": "GatePass Pro - Logistics & Gate Pass Management System",
+  "description": "Automated logistics gate pass generator, batch printing, multi-store checking papers, delivery schedule summaries, and daily data import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
